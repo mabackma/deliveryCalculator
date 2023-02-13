@@ -7,6 +7,7 @@ Implement an HTTP API (single endpoint) which calculates the delivery fee based 
 includes the calculated delivery fee in the response payload (JSON).
 <br>
 <br>
+----------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 Request
 Example:<br>
@@ -20,6 +21,7 @@ Field details:<br><br>
 <b>time</b><br>	            String	Order time in ISO format.	2021-01-16T13:00:00Z<br><br>
 
 <br>
+----------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 Response
 Example:<br>
