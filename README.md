@@ -6,8 +6,8 @@ Back-end preliminary assignment https://github.com/woltapp/engineering-summer-in
 Implement an HTTP API (single endpoint) which calculates the delivery fee based on the information in the request payload (JSON) and 
 includes the calculated delivery fee in the response payload (JSON).
 <br>
+---------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
-----------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 Request
 Example:<br>
@@ -20,8 +20,8 @@ Field details:<br><br>
 <b>number_of_items</b><br> 	Integer	The number of items in the customer's shopping cart.	4 (customer has 4 items in the cart)<br><br>
 <b>time</b><br>	            String	Order time in ISO format.	2021-01-16T13:00:00Z<br><br>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
-----------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 Response
 Example:<br>
