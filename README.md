@@ -1,6 +1,7 @@
 # deliveryCalculator
 Back-end preliminary assignment https://github.com/woltapp/engineering-summer-intern-2023/blob/main/README.md
 <br>
+<br>
 Implement an HTTP API (single endpoint) which calculates the delivery fee based on the information in the request payload (JSON) and 
 includes the calculated delivery fee in the response payload (JSON).
 <br>
