@@ -6,9 +6,7 @@ Back-end preliminary assignment https://github.com/woltapp/engineering-summer-in
 Implement an HTTP API (single endpoint) which calculates the delivery fee based on the information in the request payload (JSON) and 
 includes the calculated delivery fee in the response payload (JSON).
 <br>
-<br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-<br>
 <br>
 Request
 Example:<br>
