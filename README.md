@@ -7,7 +7,7 @@ Implement an HTTP API (single endpoint) which calculates the delivery fee based 
 includes the calculated delivery fee in the response payload (JSON).
 <br>
 <br>
-
+<br>
 Request
 Example:<br>
 {"cart_value": 790, "delivery_distance": 2235, "number_of_items": 4, "time": "2021-10-12T13:00:00Z"}
