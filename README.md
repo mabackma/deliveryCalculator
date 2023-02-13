@@ -12,6 +12,7 @@ Request
 Example:<br>
 {"cart_value": 790, "delivery_distance": 2235, "number_of_items": 4, "time": "2021-10-12T13:00:00Z"}<br>
 <br>
+<br>
 Field details:<br><br>
 <b>cart_value</b><br>	        Integer	Value of the shopping cart in cents.	790 (790 cents = 7.90€)<br><br>
 <b>delivery_distance</b><br>	Integer	The distance between the store and customer’s location in meters.	2235 (2235 meters = 2.235 km)<br><br>
@@ -23,6 +24,7 @@ Field details:<br><br>
 Response
 Example:<br>
 {"delivery_fee": 710}<br>
+<br>
 <br>
 Field details:<br><br>
 <b>delivery_fee</b><br>	    Integer	Calculated delivery fee in cents.	710 (710 cents = 7.10€)
